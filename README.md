@@ -22,3 +22,7 @@
         }
     }
     ```
++ BaseFragment
+    + 为我们所有的Fragment提供公共的行为和事件
++ BaseActivity
+    + 为我们所有的Activity提供公共的行为
